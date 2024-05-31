@@ -1,0 +1,1 @@
+clang.exe -o DictionaryExercise.exe DictionaryExercise.c main.c
